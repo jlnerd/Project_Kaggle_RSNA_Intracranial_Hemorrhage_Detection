@@ -20,3 +20,7 @@ intraventricular or subarachnoid hemorrhage is blood that has leaked into the sp
 Extra-axial hemorrhages are blood that collects in the tissue coverings that surround the brain (e.g. subdural or epidural subtypes). ee figure.) 
 
 Patients may exhibit more than one type of cerebral hemorrhage, which c may appear on the same image. While small hemorrhages are less morbid than large hemorrhages typically, even a small hemorrhage can lead to death because it is an indicator of another type of serious abnormality (e.g. cerebral aneurysm).
+
+<center>
+    <img src = "figures/hemorrhage_types.png" width = "450">
+</center>
